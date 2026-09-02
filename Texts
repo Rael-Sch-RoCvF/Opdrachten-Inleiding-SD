@@ -1,0 +1,8 @@
+void setup() {
+  size(500,500);
+  background(0,0,0);
+  
+  text("text 1", 10, 10);
+  text("text 2", 10, 50);
+  text("text 2", 30, 120);
+}
