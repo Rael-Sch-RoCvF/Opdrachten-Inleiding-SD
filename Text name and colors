@@ -1,0 +1,9 @@
+void setup() {
+  size(640, 480);
+  background(255,255,255);
+  
+  fill(100,100,0);
+  text("Rael", 10, 10);
+  fill(0,0,100);
+  text("Schulten", 40, 10);
+}
